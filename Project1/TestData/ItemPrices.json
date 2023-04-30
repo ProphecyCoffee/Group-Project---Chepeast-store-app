@@ -1,0 +1,93 @@
+{
+	{
+	  "id": "0001",
+	  "item": "1/lb Honeycrisp Apple",
+	  "stores": [
+		{
+		  "name": "Kroger",
+		  "price": 2.99
+		},
+		{
+		  "name": "Meijer",
+		  "price": 2.24
+		},
+		{
+		  "name": "Walmart",
+		  "price": 2.06
+		}
+	  ]
+	},
+	{
+	  "id": "0002",
+	  "item": "1/lb Blueberries",
+	  "stores": [
+		{
+		  "name": "Kroger",
+		  "price": 4.59
+		},
+		{
+		  "name": "Meijer",
+		  "price": 4.19
+		},
+		{
+		  "name": "Walmart",
+		  "price": 4.86
+		}
+	  ]
+	},
+	{
+	  "id": "0003",
+	  "item": "64oz Motts Apple juice",
+	  "stores": [
+		{
+		  "name": "Kroger",
+		  "price": 4.69
+		},
+		{
+		  "name": "Meijer",
+		  "price": 3.79
+		},
+		{
+		  "name": "Walmart",
+		  "price": 3.58
+		}
+	  ]
+	},
+	{
+	  "id": "0004",
+	  "item": "1gal WholeMilk",
+	  "stores": [
+		{
+		  "name": "Kroger",
+		  "price": 2.99
+		},
+		{
+		  "name": "Meijer",
+		  "price": 2.82
+		},
+		{
+		  "name": "Walmart",
+		  "price": 2.56
+		}
+	  ]
+	},
+	{
+	  "id": "0005",
+	  "item": "20oz Wheat Bread",
+	  "stores": [
+		{
+		  "name": "Kroger",
+		  "price": 1.99
+		},
+		{
+		  "name": "Meijer",
+		  "price": 1.95
+		},
+		{
+		  "name": "Walmart",
+		  "price": 1.88
+		}
+	  ]
+	}
+  
+}
